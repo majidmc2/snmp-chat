@@ -5,7 +5,7 @@ For more information about **Covert Channel** [see](https://en.wikipedia.org/wik
 ----
 ## Installation
 #### Requirements
-> scrapy
+> scapy
 
 > Python3.*
 
